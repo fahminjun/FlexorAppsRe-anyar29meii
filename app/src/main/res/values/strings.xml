@@ -1,0 +1,202 @@
+<resources>
+    <string name="app_name">FlexorStorageSolution</string>
+
+
+    <string name="mailhint">sherlock.holmes@baker.str</string>
+    <string name="passwordhint">password</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="no_account">No account?</string>
+    <string name="register">register</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_activities">MainActivities</string>
+    <string name="list_empty">No Application List</string>
+    <string name="user_avatar">Please Choose Your Avatar!</string>
+
+    ////NAV
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_main_myStorageList">My Storage List</string>
+    <string name="nav_main_profile">User Profile</string>
+    <string name="nav_main_settings">Settings</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_main_message">Message</string>
+    <string name="nav_main_map">Maps</string>
+    <string name="nav_vendor_register">Register Storage</string>
+    <string name="nav_vendor_signin">Vendor Dashboard</string>
+    <string name="nav_main_notification">Notification</string>
+    <string name="nav_vendor_signout">Back to User</string>
+    <string name="nav_vendor_activeStorage">Active Storage</string>
+    <string name="nav_vendor_upgradeStorage">Upgrade Vendor</string>
+    <string name="nav_customerService">Contacts CS</string>
+    <string name="nav_vendor_application_list">Vendor App List</string>
+    <string name="nav_vendor_list">Vendor List</string>
+    <string name="nav_vendor_settings">Settings</string>
+    <string name="admin_page">Admin Page</string>
+
+    <string name="login">Login</string>
+    <string name="submit">Submit</string>
+    <string name="search">Search</string>
+
+    <string name="facebook_app_id">244352846252397</string>
+    <string name="fb_login_protocol_scheme">fb244352846252397</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eula_agree_check">I agree to this License Agreement</string>
+    <string name="accept">Accept</string>
+    <string name="name">Name</string>
+    <string name="Address">Address</string>
+    <string name="identityCardNumber">ID Card Number</string>
+    <string name="NPWP">No NPWP*</string>
+    <string name="company">Perusahaan*</string>
+    <string name="textRules">*optional</string>
+    <string name="storageName">Storage Name</string>
+    <string name="locationAddress">Location Address</string>
+    <string name="pleaseAccept">Please Accept the End-user License Agreement before proceed!</string>
+    <string name="error_form_input">Error! Please check your input.</string>
+    <string name="error_form_photo">ID Card photo must be uploaded!</string>
+    <string name="error_already_registered">You already registered. Wait for confirmation.</string>
+    <string name="box_remove">Remove Box</string>
+    <string name="box_access">Access Box</string>
+    <string name="box_details">Box Details</string>
+    <string name="box_add">Add Box</string>
+    <string name="vendor_settings">Vendor Settings</string>
+    <string name="box_stat_available">Available</string>
+    <string name="box_stat_empty">Empty</string>
+    <string name="box_stat_full">Full</string>
+    <string name="error_box_limit">Unable to add box due to limit! please upgrade your vendor status.</string>
+    <string name="alert_new_box_title">Add New Box</string>
+    <string name="alert_new_box_message">Please add name for your new box.</string>
+    <string name="ok">Ok</string>
+    <string name="error_no_box">You have no box yet. Please create your first box.</string>
+    <string name="tenants">Tenant</string>
+    <string name="duration">Duration</string>
+    <string name="rent_due">Rent Due Date</string>
+    <string name="price">Price Rate</string>
+    <string name="separator">:  </string>
+    <string name="button_access">Access Box</string>
+    <string name="button_enable">Enable</string>
+    <string name="button_disable">Disable</string>
+    <string name="button_contact_tenant">Contact Tenant</string>
+    <string name="box_stat_null">NULL</string>
+    <string name="access_vendor">Open Vendor</string>
+    <string name="contact_vendor">Contact Vendor</string>
+    <string name="rent_box_from_vendor">Rent Box</string>
+    <string name="box_rate_perday">Rent rate/day:</string>
+    <string name="currency">Rp.</string>
+    <string name="popboxRent">Please select duration of your rent:</string>
+    <string name="popboxRentExplain">Rent Rate for this box is:</string>
+    <string name="total">Total:</string>
+    <string name="cancel">Cancel</string>
+    <string name="insufficient_balance">Insufficient Balance</string>
+    <string name="please_recharge">Please recharge your balance to proceed with rent.</string>
+    <string name="box_access_request">Box Access Request</string>
+    <string name="range">Your current range to your box is</string>
+    <string name="metric">Meter. </string>
+    <string name="access_local">Local</string>
+    <string name="box_access_request_add">Please choose your access method.</string>
+    <string name="access_remote">Remote</string>
+    <string name="manifestHeader">Please include your list of items.</string>
+    <string name="manifestHeaderIncl">*information provided only used as item checklist.</string>
+    <string name="item_add">Add Item</string>
+    <string name="item_finish">Finish Item List</string>
+    <string name="tShirt">T-Shirt</string>
+    <string name="items">Items</string>
+    <string name="amount">Amount</string>
+    <string name="new_box_access_request_title">New Box Access Request.</string>
+    <string name="new_box_access_request_value">Your box tenant request box access and need your confirmation.</string>
+    <string name="box_stat_wait">- Processed</string>
+    <string name="button_contact_vendor">Contact Vendor</string>
+    <string name="reject">Reject</string>
+    <string name="cancel_access">Cancel Access</string>
+    <string name="saving_items_please_wait">Saving your items.... Please Wait :D</string>
+    <string name="box_stat_wait_empty">Empty - Processed</string>
+    <string name="box_stat_wait_full">Full - Processed</string>
+    <string name="default_notification_channel_id">User Default Notification</string>
+    <string name="notification_access_box_req_title">User Request for Box Access!</string>
+    <string name="notification_access_box_req_body">One of your tenants need your approval to access box. Click for details.</string>
+    <string name="decline">Decline</string>
+    <string name="contact_tenant">Contact Tenant</string>
+    <string name="notification_access_box_req_cancel_title">Box Access Canceled!</string>
+    <string name="notification_access_box_req_cancel_body">The access request has been cancelled. Click for details.</string>
+    <string name="alert_accept_item">Item Accept Confirmation</string>
+    <string name="alert_accept_item_message">Are you sure to accept this item?</string>
+    <string name="notification_access_box_req_accepted_title">Your Box Acces Request Accepted</string>
+    <string name="notification_access_box_req_accepted_body">Your request has been accepted by vendor. Click for details.</string>
+    <string name="notification_access_box_req_declined_title">Your Box Access Request Denied.</string>
+    <string name="notification_access_box_req_declined_body">Your request has been denied by vendor. Click for details.</string>
+    <string name="alert_boxaccess_denied">Deny User Request</string>
+    <string name="alert_boxaccess_denied_message">User request will be denied. Please accept to proceed.</string>
+    <string name="box_view_item">Check Item</string>
+    <string name="alert_request_access">Acces Box</string>
+    <string name="alert_request_access_message">You will request to retrieve your item in this box. Please accept to proceed.</string>
+    <string name="alert_access_accept">Accept Request</string>
+    <string name="alert_access_accept_message">Accepting user request to access box. Accept to proceed.</string>
+    <string name="alert_request_cancel">Cancel Access</string>
+    <string name="alert_request_cancel_message">Box access will be cancelled. Accept to proceed.</string>
+    <string name="check_available_box">Check Vendor Box</string>
+    <string name="alert_rent_confirmation">Rent Confirmation</string>
+    <string name="alert_rent_confirmation_message">Are you sure to rent this box?</string>
+    <string name="box_stat_disabled">Disabled</string>
+    <string name="access">Access</string>
+
+
+    <string-array name="day_rate_options">
+        <item>3 day</item>
+        <item>7 day</item>
+        <item>14 day</item>
+        <item>30 day</item>
+    </string-array>
+
+    <string-array name="daftar_kota_vendor">
+        <item>Bali</item>
+        <item>Bandung</item>
+        <item>Jakarta</item>
+        <item>Malang</item>
+        <item>Surabaya</item>
+    </string-array>
+
+    <string-array name="nominal_topup">
+        <item>IDR25000</item>
+        <item>IDR50000</item>
+        <item>IDR100000</item>
+        <item>IDR250000</item>
+    </string-array>
+
+    <!--Biodata-->
+    <string name="gender">Gender</string>
+    <string name="city">City</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone Number</string>
+    <string name="userID">UID</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="transaction_eligible_not">You have insufficient balance. Please recharge.</string>
+    <string name="alert_payment_error_elligible">Insufficient Balance</string>
+    <string name="alert_payment_error_elligible_message">Insufficient balance, please recharge!</string>
+    <string name="recharge">Recharge</string>
+    <string name="box_name">Box Name</string>
+    <string name="vendor_name">Vendor Name</string>
+    <string name="vendor_address">adress</string>
+    <string name="notif_test_title">TEST TITLE</string>
+    <string name="notif_test_message">notification test is underway. click to open apps.</string>
+    <string name="boxExpired_notification_channel_id">Box Notification</string>
+    <string name="box_expired_notification">Box Expiration Alert!</string>
+    <string name="box_expired_notification_text">One of your box is expired please check \"My Storage List\" for more information</string>
+    <string name="notif_simple_new_notification">New Notification!</string>
+    <string name="notif_simple_new_notification_message">You have new notification. Please click to open apps.</string>
+    <string name="nav_topup">Top Up</string>
+    <string name="nav_topup_konfirmasi">Top Up Confirmation</string>
+    <string name="nav_topup_history">Top Up History</string>
+    <string name="jumlah_topup">Jumlah TopUp</string>
+
+
+</resources>
+
+
+
